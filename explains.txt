@@ -1,0 +1,3209 @@
+
+starting the function process recursively.
+Is the grid valid ?? 0 (0 not valid, 1 ok)
+
+------------------------------------
+
+STEP:	0
+
+coordinates x: 0, y: 0
+tower i we are trying to put: 1
+Is the number already exists in col ? 1 (0 not valid, 1 ok)
+Is the number already exists in row ? 1 (0 not valid, 1 ok)
+
+-----The grid:-----
+0000
+0000
+0000
+0000
+
+we put the tower
+
+starting the function process recursively.
+Is the grid valid ?? 0 (0 not valid, 1 ok)
+
+------------------------------------
+
+STEP:	0
+
+coordinates x: 1, y: 0
+tower i we are trying to put: 1
+Is the number already exists in col ? 1 (0 not valid, 1 ok)
+Is the number already exists in row ? 0 (0 not valid, 1 ok)
+
+-----The grid:-----
+1000
+0000
+0000
+0000
+
+WE GO TO THE STEP -> 1
+
+------------------------------------
+
+STEP:	1
+
+coordinates x: 1, y: 0
+tower i we are trying to put: 2
+Is the number already exists in col ? 1 (0 not valid, 1 ok)
+Is the number already exists in row ? 1 (0 not valid, 1 ok)
+
+-----The grid:-----
+1000
+0000
+0000
+0000
+
+we put the tower
+
+starting the function process recursively.
+Is the grid valid ?? 0 (0 not valid, 1 ok)
+
+------------------------------------
+
+STEP:	1
+
+coordinates x: 2, y: 0
+tower i we are trying to put: 1
+Is the number already exists in col ? 1 (0 not valid, 1 ok)
+Is the number already exists in row ? 0 (0 not valid, 1 ok)
+
+-----The grid:-----
+1200
+0000
+0000
+0000
+
+WE GO TO THE STEP -> 2
+
+------------------------------------
+
+STEP:	2
+
+coordinates x: 2, y: 0
+tower i we are trying to put: 2
+Is the number already exists in col ? 1 (0 not valid, 1 ok)
+Is the number already exists in row ? 0 (0 not valid, 1 ok)
+
+-----The grid:-----
+1200
+0000
+0000
+0000
+
+WE GO TO THE STEP -> 3
+
+------------------------------------
+
+STEP:	3
+
+coordinates x: 2, y: 0
+tower i we are trying to put: 3
+Is the number already exists in col ? 1 (0 not valid, 1 ok)
+Is the number already exists in row ? 1 (0 not valid, 1 ok)
+
+-----The grid:-----
+1200
+0000
+0000
+0000
+
+we put the tower
+
+starting the function process recursively.
+Is the grid valid ?? 0 (0 not valid, 1 ok)
+
+------------------------------------
+
+STEP:	3
+
+coordinates x: 3, y: 0
+tower i we are trying to put: 1
+Is the number already exists in col ? 1 (0 not valid, 1 ok)
+Is the number already exists in row ? 0 (0 not valid, 1 ok)
+
+-----The grid:-----
+1230
+0000
+0000
+0000
+
+WE GO TO THE STEP -> 4
+
+------------------------------------
+
+STEP:	4
+
+coordinates x: 3, y: 0
+tower i we are trying to put: 2
+Is the number already exists in col ? 1 (0 not valid, 1 ok)
+Is the number already exists in row ? 0 (0 not valid, 1 ok)
+
+-----The grid:-----
+1230
+0000
+0000
+0000
+
+WE GO TO THE STEP -> 5
+
+------------------------------------
+
+STEP:	5
+
+coordinates x: 3, y: 0
+tower i we are trying to put: 3
+Is the number already exists in col ? 1 (0 not valid, 1 ok)
+Is the number already exists in row ? 0 (0 not valid, 1 ok)
+
+-----The grid:-----
+1230
+0000
+0000
+0000
+
+WE GO TO THE STEP -> 6
+
+------------------------------------
+
+STEP:	6
+
+coordinates x: 3, y: 0
+tower i we are trying to put: 4
+Is the number already exists in col ? 1 (0 not valid, 1 ok)
+Is the number already exists in row ? 1 (0 not valid, 1 ok)
+
+-----The grid:-----
+1230
+0000
+0000
+0000
+
+we put the tower
+
+starting the function process recursively.
+Is the grid valid ?? 0 (0 not valid, 1 ok)
+
+We move to the next row because we just filled all the previous one.
+
+------------------------------------
+
+STEP:	6
+
+coordinates x: 0, y: 1
+tower i we are trying to put: 1
+Is the number already exists in col ? 0 (0 not valid, 1 ok)
+Is the number already exists in row ? 1 (0 not valid, 1 ok)
+
+-----The grid:-----
+1234
+0000
+0000
+0000
+
+WE GO TO THE STEP -> 7
+
+------------------------------------
+
+STEP:	7
+
+coordinates x: 0, y: 1
+tower i we are trying to put: 2
+Is the number already exists in col ? 1 (0 not valid, 1 ok)
+Is the number already exists in row ? 1 (0 not valid, 1 ok)
+
+-----The grid:-----
+1234
+0000
+0000
+0000
+
+we put the tower
+
+starting the function process recursively.
+Is the grid valid ?? 0 (0 not valid, 1 ok)
+
+------------------------------------
+
+STEP:	7
+
+coordinates x: 1, y: 1
+tower i we are trying to put: 1
+Is the number already exists in col ? 1 (0 not valid, 1 ok)
+Is the number already exists in row ? 1 (0 not valid, 1 ok)
+
+-----The grid:-----
+1234
+2000
+0000
+0000
+
+we put the tower
+
+starting the function process recursively.
+Is the grid valid ?? 0 (0 not valid, 1 ok)
+
+------------------------------------
+
+STEP:	7
+
+coordinates x: 2, y: 1
+tower i we are trying to put: 1
+Is the number already exists in col ? 1 (0 not valid, 1 ok)
+Is the number already exists in row ? 0 (0 not valid, 1 ok)
+
+-----The grid:-----
+1234
+2100
+0000
+0000
+
+WE GO TO THE STEP -> 8
+
+------------------------------------
+
+STEP:	8
+
+coordinates x: 2, y: 1
+tower i we are trying to put: 2
+Is the number already exists in col ? 1 (0 not valid, 1 ok)
+Is the number already exists in row ? 0 (0 not valid, 1 ok)
+
+-----The grid:-----
+1234
+2100
+0000
+0000
+
+WE GO TO THE STEP -> 9
+
+------------------------------------
+
+STEP:	9
+
+coordinates x: 2, y: 1
+tower i we are trying to put: 3
+Is the number already exists in col ? 0 (0 not valid, 1 ok)
+Is the number already exists in row ? 1 (0 not valid, 1 ok)
+
+-----The grid:-----
+1234
+2100
+0000
+0000
+
+WE GO TO THE STEP -> 10
+
+------------------------------------
+
+STEP:	10
+
+coordinates x: 2, y: 1
+tower i we are trying to put: 4
+Is the number already exists in col ? 1 (0 not valid, 1 ok)
+Is the number already exists in row ? 1 (0 not valid, 1 ok)
+
+-----The grid:-----
+1234
+2100
+0000
+0000
+
+we put the tower
+
+starting the function process recursively.
+Is the grid valid ?? 0 (0 not valid, 1 ok)
+
+------------------------------------
+
+STEP:	10
+
+coordinates x: 3, y: 1
+tower i we are trying to put: 1
+Is the number already exists in col ? 1 (0 not valid, 1 ok)
+Is the number already exists in row ? 0 (0 not valid, 1 ok)
+
+-----The grid:-----
+1234
+2140
+0000
+0000
+
+WE GO TO THE STEP -> 11
+
+------------------------------------
+
+STEP:	11
+
+coordinates x: 3, y: 1
+tower i we are trying to put: 2
+Is the number already exists in col ? 1 (0 not valid, 1 ok)
+Is the number already exists in row ? 0 (0 not valid, 1 ok)
+
+-----The grid:-----
+1234
+2140
+0000
+0000
+
+WE GO TO THE STEP -> 12
+
+------------------------------------
+
+STEP:	12
+
+coordinates x: 3, y: 1
+tower i we are trying to put: 3
+Is the number already exists in col ? 1 (0 not valid, 1 ok)
+Is the number already exists in row ? 1 (0 not valid, 1 ok)
+
+-----The grid:-----
+1234
+2140
+0000
+0000
+
+we put the tower
+
+starting the function process recursively.
+Is the grid valid ?? 0 (0 not valid, 1 ok)
+
+We move to the next row because we just filled all the previous one.
+
+------------------------------------
+
+STEP:	12
+
+coordinates x: 0, y: 2
+tower i we are trying to put: 1
+Is the number already exists in col ? 0 (0 not valid, 1 ok)
+Is the number already exists in row ? 1 (0 not valid, 1 ok)
+
+-----The grid:-----
+1234
+2143
+0000
+0000
+
+WE GO TO THE STEP -> 13
+
+------------------------------------
+
+STEP:	13
+
+coordinates x: 0, y: 2
+tower i we are trying to put: 2
+Is the number already exists in col ? 0 (0 not valid, 1 ok)
+Is the number already exists in row ? 1 (0 not valid, 1 ok)
+
+-----The grid:-----
+1234
+2143
+0000
+0000
+
+WE GO TO THE STEP -> 14
+
+------------------------------------
+
+STEP:	14
+
+coordinates x: 0, y: 2
+tower i we are trying to put: 3
+Is the number already exists in col ? 1 (0 not valid, 1 ok)
+Is the number already exists in row ? 1 (0 not valid, 1 ok)
+
+-----The grid:-----
+1234
+2143
+0000
+0000
+
+we put the tower
+
+starting the function process recursively.
+Is the grid valid ?? 0 (0 not valid, 1 ok)
+
+------------------------------------
+
+STEP:	14
+
+coordinates x: 1, y: 2
+tower i we are trying to put: 1
+Is the number already exists in col ? 0 (0 not valid, 1 ok)
+Is the number already exists in row ? 1 (0 not valid, 1 ok)
+
+-----The grid:-----
+1234
+2143
+3000
+0000
+
+WE GO TO THE STEP -> 15
+
+------------------------------------
+
+STEP:	15
+
+coordinates x: 1, y: 2
+tower i we are trying to put: 2
+Is the number already exists in col ? 0 (0 not valid, 1 ok)
+Is the number already exists in row ? 1 (0 not valid, 1 ok)
+
+-----The grid:-----
+1234
+2143
+3000
+0000
+
+WE GO TO THE STEP -> 16
+
+------------------------------------
+
+STEP:	16
+
+coordinates x: 1, y: 2
+tower i we are trying to put: 3
+Is the number already exists in col ? 1 (0 not valid, 1 ok)
+Is the number already exists in row ? 0 (0 not valid, 1 ok)
+
+-----The grid:-----
+1234
+2143
+3000
+0000
+
+WE GO TO THE STEP -> 17
+
+------------------------------------
+
+STEP:	17
+
+coordinates x: 1, y: 2
+tower i we are trying to put: 4
+Is the number already exists in col ? 1 (0 not valid, 1 ok)
+Is the number already exists in row ? 1 (0 not valid, 1 ok)
+
+-----The grid:-----
+1234
+2143
+3000
+0000
+
+we put the tower
+
+starting the function process recursively.
+Is the grid valid ?? 0 (0 not valid, 1 ok)
+
+------------------------------------
+
+STEP:	17
+
+coordinates x: 2, y: 2
+tower i we are trying to put: 1
+Is the number already exists in col ? 1 (0 not valid, 1 ok)
+Is the number already exists in row ? 1 (0 not valid, 1 ok)
+
+-----The grid:-----
+1234
+2143
+3400
+0000
+
+we put the tower
+
+starting the function process recursively.
+Is the grid valid ?? 0 (0 not valid, 1 ok)
+
+------------------------------------
+
+STEP:	17
+
+coordinates x: 3, y: 2
+tower i we are trying to put: 1
+Is the number already exists in col ? 1 (0 not valid, 1 ok)
+Is the number already exists in row ? 0 (0 not valid, 1 ok)
+
+-----The grid:-----
+1234
+2143
+3410
+0000
+
+WE GO TO THE STEP -> 18
+
+------------------------------------
+
+STEP:	18
+
+coordinates x: 3, y: 2
+tower i we are trying to put: 2
+Is the number already exists in col ? 1 (0 not valid, 1 ok)
+Is the number already exists in row ? 1 (0 not valid, 1 ok)
+
+-----The grid:-----
+1234
+2143
+3410
+0000
+
+we put the tower
+
+starting the function process recursively.
+Is the grid valid ?? 0 (0 not valid, 1 ok)
+
+We move to the next row because we just filled all the previous one.
+
+------------------------------------
+
+STEP:	18
+
+coordinates x: 0, y: 3
+tower i we are trying to put: 1
+Is the number already exists in col ? 0 (0 not valid, 1 ok)
+Is the number already exists in row ? 1 (0 not valid, 1 ok)
+
+-----The grid:-----
+1234
+2143
+3412
+0000
+
+WE GO TO THE STEP -> 19
+
+------------------------------------
+
+STEP:	19
+
+coordinates x: 0, y: 3
+tower i we are trying to put: 2
+Is the number already exists in col ? 0 (0 not valid, 1 ok)
+Is the number already exists in row ? 1 (0 not valid, 1 ok)
+
+-----The grid:-----
+1234
+2143
+3412
+0000
+
+WE GO TO THE STEP -> 20
+
+------------------------------------
+
+STEP:	20
+
+coordinates x: 0, y: 3
+tower i we are trying to put: 3
+Is the number already exists in col ? 0 (0 not valid, 1 ok)
+Is the number already exists in row ? 1 (0 not valid, 1 ok)
+
+-----The grid:-----
+1234
+2143
+3412
+0000
+
+WE GO TO THE STEP -> 21
+
+------------------------------------
+
+STEP:	21
+
+coordinates x: 0, y: 3
+tower i we are trying to put: 4
+Is the number already exists in col ? 1 (0 not valid, 1 ok)
+Is the number already exists in row ? 1 (0 not valid, 1 ok)
+
+-----The grid:-----
+1234
+2143
+3412
+0000
+
+we put the tower
+
+starting the function process recursively.
+Is the grid valid ?? 0 (0 not valid, 1 ok)
+
+------------------------------------
+
+STEP:	21
+
+coordinates x: 1, y: 3
+tower i we are trying to put: 1
+Is the number already exists in col ? 0 (0 not valid, 1 ok)
+Is the number already exists in row ? 1 (0 not valid, 1 ok)
+
+-----The grid:-----
+1234
+2143
+3412
+4000
+
+WE GO TO THE STEP -> 22
+
+------------------------------------
+
+STEP:	22
+
+coordinates x: 1, y: 3
+tower i we are trying to put: 2
+Is the number already exists in col ? 0 (0 not valid, 1 ok)
+Is the number already exists in row ? 1 (0 not valid, 1 ok)
+
+-----The grid:-----
+1234
+2143
+3412
+4000
+
+WE GO TO THE STEP -> 23
+
+------------------------------------
+
+STEP:	23
+
+coordinates x: 1, y: 3
+tower i we are trying to put: 3
+Is the number already exists in col ? 1 (0 not valid, 1 ok)
+Is the number already exists in row ? 1 (0 not valid, 1 ok)
+
+-----The grid:-----
+1234
+2143
+3412
+4000
+
+we put the tower
+
+starting the function process recursively.
+Is the grid valid ?? 0 (0 not valid, 1 ok)
+
+------------------------------------
+
+STEP:	23
+
+coordinates x: 2, y: 3
+tower i we are trying to put: 1
+Is the number already exists in col ? 0 (0 not valid, 1 ok)
+Is the number already exists in row ? 1 (0 not valid, 1 ok)
+
+-----The grid:-----
+1234
+2143
+3412
+4300
+
+WE GO TO THE STEP -> 24
+
+------------------------------------
+
+STEP:	24
+
+coordinates x: 2, y: 3
+tower i we are trying to put: 2
+Is the number already exists in col ? 1 (0 not valid, 1 ok)
+Is the number already exists in row ? 1 (0 not valid, 1 ok)
+
+-----The grid:-----
+1234
+2143
+3412
+4300
+
+we put the tower
+
+starting the function process recursively.
+Is the grid valid ?? 0 (0 not valid, 1 ok)
+
+------------------------------------
+
+STEP:	24
+
+coordinates x: 3, y: 3
+tower i we are trying to put: 1
+Is the number already exists in col ? 1 (0 not valid, 1 ok)
+Is the number already exists in row ? 1 (0 not valid, 1 ok)
+
+-----The grid:-----
+1234
+2143
+3412
+4320
+
+we put the tower
+
+starting the function process recursively.
+Is the grid valid ?? 0 (0 not valid, 1 ok)
+
+We move to the next row because we just filled all the previous one.
+
+------------------------------------
+
+STEP:	24
+
+coordinates x: 0, y: 4
+tower i we are trying to put: 1
+Is the number already exists in col ? 0 (0 not valid, 1 ok)
+Is the number already exists in row ? 1 (0 not valid, 1 ok)
+
+-----The grid:-----
+1234
+2143
+3412
+4321
+
+WE GO TO THE STEP -> 25
+
+------------------------------------
+
+STEP:	25
+
+coordinates x: 0, y: 4
+tower i we are trying to put: 2
+Is the number already exists in col ? 0 (0 not valid, 1 ok)
+Is the number already exists in row ? 1 (0 not valid, 1 ok)
+
+-----The grid:-----
+1234
+2143
+3412
+4321
+
+WE GO TO THE STEP -> 26
+
+------------------------------------
+
+STEP:	26
+
+coordinates x: 0, y: 4
+tower i we are trying to put: 3
+Is the number already exists in col ? 0 (0 not valid, 1 ok)
+Is the number already exists in row ? 1 (0 not valid, 1 ok)
+
+-----The grid:-----
+1234
+2143
+3412
+4321
+
+WE GO TO THE STEP -> 27
+
+------------------------------------
+
+STEP:	27
+
+coordinates x: 0, y: 4
+tower i we are trying to put: 4
+Is the number already exists in col ? 0 (0 not valid, 1 ok)
+Is the number already exists in row ? 1 (0 not valid, 1 ok)
+
+-----The grid:-----
+1234
+2143
+3412
+4321
+
+WE GO TO THE STEP -> 28
+Lets backtrack -------->WE GO TO THE STEP -> 29
+
+------------------------------------
+
+STEP:	29
+
+coordinates x: 3, y: 3
+tower i we are trying to put: 2
+Is the number already exists in col ? 0 (0 not valid, 1 ok)
+Is the number already exists in row ? 0 (0 not valid, 1 ok)
+
+-----The grid:-----
+1234
+2143
+3412
+4321
+
+WE GO TO THE STEP -> 30
+
+------------------------------------
+
+STEP:	30
+
+coordinates x: 3, y: 3
+tower i we are trying to put: 3
+Is the number already exists in col ? 0 (0 not valid, 1 ok)
+Is the number already exists in row ? 0 (0 not valid, 1 ok)
+
+-----The grid:-----
+1234
+2143
+3412
+4321
+
+WE GO TO THE STEP -> 31
+
+------------------------------------
+
+STEP:	31
+
+coordinates x: 3, y: 3
+tower i we are trying to put: 4
+Is the number already exists in col ? 0 (0 not valid, 1 ok)
+Is the number already exists in row ? 0 (0 not valid, 1 ok)
+
+-----The grid:-----
+1234
+2143
+3412
+4321
+
+WE GO TO THE STEP -> 32
+Lets backtrack -------->WE GO TO THE STEP -> 33
+
+------------------------------------
+
+STEP:	33
+
+coordinates x: 2, y: 3
+tower i we are trying to put: 3
+Is the number already exists in col ? 0 (0 not valid, 1 ok)
+Is the number already exists in row ? 0 (0 not valid, 1 ok)
+
+-----The grid:-----
+1234
+2143
+3412
+4320
+
+WE GO TO THE STEP -> 34
+
+------------------------------------
+
+STEP:	34
+
+coordinates x: 2, y: 3
+tower i we are trying to put: 4
+Is the number already exists in col ? 0 (0 not valid, 1 ok)
+Is the number already exists in row ? 0 (0 not valid, 1 ok)
+
+-----The grid:-----
+1234
+2143
+3412
+4320
+
+WE GO TO THE STEP -> 35
+Lets backtrack -------->WE GO TO THE STEP -> 36
+
+------------------------------------
+
+STEP:	36
+
+coordinates x: 1, y: 3
+tower i we are trying to put: 4
+Is the number already exists in col ? 0 (0 not valid, 1 ok)
+Is the number already exists in row ? 0 (0 not valid, 1 ok)
+
+-----The grid:-----
+1234
+2143
+3412
+4300
+
+WE GO TO THE STEP -> 37
+Lets backtrack -------->WE GO TO THE STEP -> 38
+Lets backtrack -------->WE GO TO THE STEP -> 39
+
+------------------------------------
+
+STEP:	39
+
+coordinates x: 3, y: 2
+tower i we are trying to put: 3
+Is the number already exists in col ? 0 (0 not valid, 1 ok)
+Is the number already exists in row ? 0 (0 not valid, 1 ok)
+
+-----The grid:-----
+1234
+2143
+3412
+0000
+
+WE GO TO THE STEP -> 40
+
+------------------------------------
+
+STEP:	40
+
+coordinates x: 3, y: 2
+tower i we are trying to put: 4
+Is the number already exists in col ? 0 (0 not valid, 1 ok)
+Is the number already exists in row ? 0 (0 not valid, 1 ok)
+
+-----The grid:-----
+1234
+2143
+3412
+0000
+
+WE GO TO THE STEP -> 41
+Lets backtrack -------->WE GO TO THE STEP -> 42
+
+------------------------------------
+
+STEP:	42
+
+coordinates x: 2, y: 2
+tower i we are trying to put: 2
+Is the number already exists in col ? 1 (0 not valid, 1 ok)
+Is the number already exists in row ? 1 (0 not valid, 1 ok)
+
+-----The grid:-----
+1234
+2143
+3410
+0000
+
+we put the tower
+
+starting the function process recursively.
+Is the grid valid ?? 0 (0 not valid, 1 ok)
+
+------------------------------------
+
+STEP:	42
+
+coordinates x: 3, y: 2
+tower i we are trying to put: 1
+Is the number already exists in col ? 1 (0 not valid, 1 ok)
+Is the number already exists in row ? 1 (0 not valid, 1 ok)
+
+-----The grid:-----
+1234
+2143
+3420
+0000
+
+we put the tower
+
+starting the function process recursively.
+Is the grid valid ?? 0 (0 not valid, 1 ok)
+
+We move to the next row because we just filled all the previous one.
+
+------------------------------------
+
+STEP:	42
+
+coordinates x: 0, y: 3
+tower i we are trying to put: 1
+Is the number already exists in col ? 0 (0 not valid, 1 ok)
+Is the number already exists in row ? 1 (0 not valid, 1 ok)
+
+-----The grid:-----
+1234
+2143
+3421
+0000
+
+WE GO TO THE STEP -> 43
+
+------------------------------------
+
+STEP:	43
+
+coordinates x: 0, y: 3
+tower i we are trying to put: 2
+Is the number already exists in col ? 0 (0 not valid, 1 ok)
+Is the number already exists in row ? 1 (0 not valid, 1 ok)
+
+-----The grid:-----
+1234
+2143
+3421
+0000
+
+WE GO TO THE STEP -> 44
+
+------------------------------------
+
+STEP:	44
+
+coordinates x: 0, y: 3
+tower i we are trying to put: 3
+Is the number already exists in col ? 0 (0 not valid, 1 ok)
+Is the number already exists in row ? 1 (0 not valid, 1 ok)
+
+-----The grid:-----
+1234
+2143
+3421
+0000
+
+WE GO TO THE STEP -> 45
+
+------------------------------------
+
+STEP:	45
+
+coordinates x: 0, y: 3
+tower i we are trying to put: 4
+Is the number already exists in col ? 1 (0 not valid, 1 ok)
+Is the number already exists in row ? 1 (0 not valid, 1 ok)
+
+-----The grid:-----
+1234
+2143
+3421
+0000
+
+we put the tower
+
+starting the function process recursively.
+Is the grid valid ?? 0 (0 not valid, 1 ok)
+
+------------------------------------
+
+STEP:	45
+
+coordinates x: 1, y: 3
+tower i we are trying to put: 1
+Is the number already exists in col ? 0 (0 not valid, 1 ok)
+Is the number already exists in row ? 1 (0 not valid, 1 ok)
+
+-----The grid:-----
+1234
+2143
+3421
+4000
+
+WE GO TO THE STEP -> 46
+
+------------------------------------
+
+STEP:	46
+
+coordinates x: 1, y: 3
+tower i we are trying to put: 2
+Is the number already exists in col ? 0 (0 not valid, 1 ok)
+Is the number already exists in row ? 1 (0 not valid, 1 ok)
+
+-----The grid:-----
+1234
+2143
+3421
+4000
+
+WE GO TO THE STEP -> 47
+
+------------------------------------
+
+STEP:	47
+
+coordinates x: 1, y: 3
+tower i we are trying to put: 3
+Is the number already exists in col ? 1 (0 not valid, 1 ok)
+Is the number already exists in row ? 1 (0 not valid, 1 ok)
+
+-----The grid:-----
+1234
+2143
+3421
+4000
+
+we put the tower
+
+starting the function process recursively.
+Is the grid valid ?? 0 (0 not valid, 1 ok)
+
+------------------------------------
+
+STEP:	47
+
+coordinates x: 2, y: 3
+tower i we are trying to put: 1
+Is the number already exists in col ? 1 (0 not valid, 1 ok)
+Is the number already exists in row ? 1 (0 not valid, 1 ok)
+
+-----The grid:-----
+1234
+2143
+3421
+4300
+
+we put the tower
+
+starting the function process recursively.
+Is the grid valid ?? 0 (0 not valid, 1 ok)
+
+------------------------------------
+
+STEP:	47
+
+coordinates x: 3, y: 3
+tower i we are trying to put: 1
+Is the number already exists in col ? 0 (0 not valid, 1 ok)
+Is the number already exists in row ? 0 (0 not valid, 1 ok)
+
+-----The grid:-----
+1234
+2143
+3421
+4310
+
+WE GO TO THE STEP -> 48
+
+------------------------------------
+
+STEP:	48
+
+coordinates x: 3, y: 3
+tower i we are trying to put: 2
+Is the number already exists in col ? 1 (0 not valid, 1 ok)
+Is the number already exists in row ? 1 (0 not valid, 1 ok)
+
+-----The grid:-----
+1234
+2143
+3421
+4310
+
+we put the tower
+
+starting the function process recursively.
+Is the grid valid ?? 0 (0 not valid, 1 ok)
+
+We move to the next row because we just filled all the previous one.
+
+------------------------------------
+
+STEP:	48
+
+coordinates x: 0, y: 4
+tower i we are trying to put: 1
+Is the number already exists in col ? 0 (0 not valid, 1 ok)
+Is the number already exists in row ? 1 (0 not valid, 1 ok)
+
+-----The grid:-----
+1234
+2143
+3421
+4312
+
+WE GO TO THE STEP -> 49
+
+------------------------------------
+
+STEP:	49
+
+coordinates x: 0, y: 4
+tower i we are trying to put: 2
+Is the number already exists in col ? 0 (0 not valid, 1 ok)
+Is the number already exists in row ? 1 (0 not valid, 1 ok)
+
+-----The grid:-----
+1234
+2143
+3421
+4312
+
+WE GO TO THE STEP -> 50
+
+------------------------------------
+
+STEP:	50
+
+coordinates x: 0, y: 4
+tower i we are trying to put: 3
+Is the number already exists in col ? 0 (0 not valid, 1 ok)
+Is the number already exists in row ? 1 (0 not valid, 1 ok)
+
+-----The grid:-----
+1234
+2143
+3421
+4312
+
+WE GO TO THE STEP -> 51
+
+------------------------------------
+
+STEP:	51
+
+coordinates x: 0, y: 4
+tower i we are trying to put: 4
+Is the number already exists in col ? 0 (0 not valid, 1 ok)
+Is the number already exists in row ? 1 (0 not valid, 1 ok)
+
+-----The grid:-----
+1234
+2143
+3421
+4312
+
+WE GO TO THE STEP -> 52
+Lets backtrack -------->WE GO TO THE STEP -> 53
+
+------------------------------------
+
+STEP:	53
+
+coordinates x: 3, y: 3
+tower i we are trying to put: 3
+Is the number already exists in col ? 0 (0 not valid, 1 ok)
+Is the number already exists in row ? 0 (0 not valid, 1 ok)
+
+-----The grid:-----
+1234
+2143
+3421
+4312
+
+WE GO TO THE STEP -> 54
+
+------------------------------------
+
+STEP:	54
+
+coordinates x: 3, y: 3
+tower i we are trying to put: 4
+Is the number already exists in col ? 0 (0 not valid, 1 ok)
+Is the number already exists in row ? 0 (0 not valid, 1 ok)
+
+-----The grid:-----
+1234
+2143
+3421
+4312
+
+WE GO TO THE STEP -> 55
+Lets backtrack -------->WE GO TO THE STEP -> 56
+
+------------------------------------
+
+STEP:	56
+
+coordinates x: 2, y: 3
+tower i we are trying to put: 2
+Is the number already exists in col ? 0 (0 not valid, 1 ok)
+Is the number already exists in row ? 1 (0 not valid, 1 ok)
+
+-----The grid:-----
+1234
+2143
+3421
+4310
+
+WE GO TO THE STEP -> 57
+
+------------------------------------
+
+STEP:	57
+
+coordinates x: 2, y: 3
+tower i we are trying to put: 3
+Is the number already exists in col ? 0 (0 not valid, 1 ok)
+Is the number already exists in row ? 0 (0 not valid, 1 ok)
+
+-----The grid:-----
+1234
+2143
+3421
+4310
+
+WE GO TO THE STEP -> 58
+
+------------------------------------
+
+STEP:	58
+
+coordinates x: 2, y: 3
+tower i we are trying to put: 4
+Is the number already exists in col ? 0 (0 not valid, 1 ok)
+Is the number already exists in row ? 0 (0 not valid, 1 ok)
+
+-----The grid:-----
+1234
+2143
+3421
+4310
+
+WE GO TO THE STEP -> 59
+Lets backtrack -------->WE GO TO THE STEP -> 60
+
+------------------------------------
+
+STEP:	60
+
+coordinates x: 1, y: 3
+tower i we are trying to put: 4
+Is the number already exists in col ? 0 (0 not valid, 1 ok)
+Is the number already exists in row ? 0 (0 not valid, 1 ok)
+
+-----The grid:-----
+1234
+2143
+3421
+4300
+
+WE GO TO THE STEP -> 61
+Lets backtrack -------->WE GO TO THE STEP -> 62
+Lets backtrack -------->WE GO TO THE STEP -> 63
+
+------------------------------------
+
+STEP:	63
+
+coordinates x: 3, y: 2
+tower i we are trying to put: 2
+Is the number already exists in col ? 1 (0 not valid, 1 ok)
+Is the number already exists in row ? 0 (0 not valid, 1 ok)
+
+-----The grid:-----
+1234
+2143
+3421
+0000
+
+WE GO TO THE STEP -> 64
+
+------------------------------------
+
+STEP:	64
+
+coordinates x: 3, y: 2
+tower i we are trying to put: 3
+Is the number already exists in col ? 0 (0 not valid, 1 ok)
+Is the number already exists in row ? 0 (0 not valid, 1 ok)
+
+-----The grid:-----
+1234
+2143
+3421
+0000
+
+WE GO TO THE STEP -> 65
+
+------------------------------------
+
+STEP:	65
+
+coordinates x: 3, y: 2
+tower i we are trying to put: 4
+Is the number already exists in col ? 0 (0 not valid, 1 ok)
+Is the number already exists in row ? 0 (0 not valid, 1 ok)
+
+-----The grid:-----
+1234
+2143
+3421
+0000
+
+WE GO TO THE STEP -> 66
+Lets backtrack -------->WE GO TO THE STEP -> 67
+
+------------------------------------
+
+STEP:	67
+
+coordinates x: 2, y: 2
+tower i we are trying to put: 3
+Is the number already exists in col ? 0 (0 not valid, 1 ok)
+Is the number already exists in row ? 0 (0 not valid, 1 ok)
+
+-----The grid:-----
+1234
+2143
+3420
+0000
+
+WE GO TO THE STEP -> 68
+
+------------------------------------
+
+STEP:	68
+
+coordinates x: 2, y: 2
+tower i we are trying to put: 4
+Is the number already exists in col ? 0 (0 not valid, 1 ok)
+Is the number already exists in row ? 0 (0 not valid, 1 ok)
+
+-----The grid:-----
+1234
+2143
+3420
+0000
+
+WE GO TO THE STEP -> 69
+Lets backtrack -------->WE GO TO THE STEP -> 70
+Lets backtrack -------->WE GO TO THE STEP -> 71
+
+------------------------------------
+
+STEP:	71
+
+coordinates x: 0, y: 2
+tower i we are trying to put: 4
+Is the number already exists in col ? 1 (0 not valid, 1 ok)
+Is the number already exists in row ? 1 (0 not valid, 1 ok)
+
+-----The grid:-----
+1234
+2143
+3000
+0000
+
+we put the tower
+
+starting the function process recursively.
+Is the grid valid ?? 0 (0 not valid, 1 ok)
+
+------------------------------------
+
+STEP:	71
+
+coordinates x: 1, y: 2
+tower i we are trying to put: 1
+Is the number already exists in col ? 0 (0 not valid, 1 ok)
+Is the number already exists in row ? 1 (0 not valid, 1 ok)
+
+-----The grid:-----
+1234
+2143
+4000
+0000
+
+WE GO TO THE STEP -> 72
+
+------------------------------------
+
+STEP:	72
+
+coordinates x: 1, y: 2
+tower i we are trying to put: 2
+Is the number already exists in col ? 0 (0 not valid, 1 ok)
+Is the number already exists in row ? 1 (0 not valid, 1 ok)
+
+-----The grid:-----
+1234
+2143
+4000
+0000
+
+WE GO TO THE STEP -> 73
+
+------------------------------------
+
+STEP:	73
+
+coordinates x: 1, y: 2
+tower i we are trying to put: 3
+Is the number already exists in col ? 1 (0 not valid, 1 ok)
+Is the number already exists in row ? 1 (0 not valid, 1 ok)
+
+-----The grid:-----
+1234
+2143
+4000
+0000
+
+we put the tower
+
+starting the function process recursively.
+Is the grid valid ?? 0 (0 not valid, 1 ok)
+
+------------------------------------
+
+STEP:	73
+
+coordinates x: 2, y: 2
+tower i we are trying to put: 1
+Is the number already exists in col ? 1 (0 not valid, 1 ok)
+Is the number already exists in row ? 1 (0 not valid, 1 ok)
+
+-----The grid:-----
+1234
+2143
+4300
+0000
+
+we put the tower
+
+starting the function process recursively.
+Is the grid valid ?? 0 (0 not valid, 1 ok)
+
+------------------------------------
+
+STEP:	73
+
+coordinates x: 3, y: 2
+tower i we are trying to put: 1
+Is the number already exists in col ? 1 (0 not valid, 1 ok)
+Is the number already exists in row ? 0 (0 not valid, 1 ok)
+
+-----The grid:-----
+1234
+2143
+4310
+0000
+
+WE GO TO THE STEP -> 74
+
+------------------------------------
+
+STEP:	74
+
+coordinates x: 3, y: 2
+tower i we are trying to put: 2
+Is the number already exists in col ? 1 (0 not valid, 1 ok)
+Is the number already exists in row ? 1 (0 not valid, 1 ok)
+
+-----The grid:-----
+1234
+2143
+4310
+0000
+
+we put the tower
+
+starting the function process recursively.
+Is the grid valid ?? 0 (0 not valid, 1 ok)
+
+We move to the next row because we just filled all the previous one.
+
+------------------------------------
+
+STEP:	74
+
+coordinates x: 0, y: 3
+tower i we are trying to put: 1
+Is the number already exists in col ? 0 (0 not valid, 1 ok)
+Is the number already exists in row ? 1 (0 not valid, 1 ok)
+
+-----The grid:-----
+1234
+2143
+4312
+0000
+
+WE GO TO THE STEP -> 75
+
+------------------------------------
+
+STEP:	75
+
+coordinates x: 0, y: 3
+tower i we are trying to put: 2
+Is the number already exists in col ? 0 (0 not valid, 1 ok)
+Is the number already exists in row ? 1 (0 not valid, 1 ok)
+
+-----The grid:-----
+1234
+2143
+4312
+0000
+
+WE GO TO THE STEP -> 76
+
+------------------------------------
+
+STEP:	76
+
+coordinates x: 0, y: 3
+tower i we are trying to put: 3
+Is the number already exists in col ? 1 (0 not valid, 1 ok)
+Is the number already exists in row ? 1 (0 not valid, 1 ok)
+
+-----The grid:-----
+1234
+2143
+4312
+0000
+
+we put the tower
+
+starting the function process recursively.
+Is the grid valid ?? 0 (0 not valid, 1 ok)
+
+------------------------------------
+
+STEP:	76
+
+coordinates x: 1, y: 3
+tower i we are trying to put: 1
+Is the number already exists in col ? 0 (0 not valid, 1 ok)
+Is the number already exists in row ? 1 (0 not valid, 1 ok)
+
+-----The grid:-----
+1234
+2143
+4312
+3000
+
+WE GO TO THE STEP -> 77
+
+------------------------------------
+
+STEP:	77
+
+coordinates x: 1, y: 3
+tower i we are trying to put: 2
+Is the number already exists in col ? 0 (0 not valid, 1 ok)
+Is the number already exists in row ? 1 (0 not valid, 1 ok)
+
+-----The grid:-----
+1234
+2143
+4312
+3000
+
+WE GO TO THE STEP -> 78
+
+------------------------------------
+
+STEP:	78
+
+coordinates x: 1, y: 3
+tower i we are trying to put: 3
+Is the number already exists in col ? 0 (0 not valid, 1 ok)
+Is the number already exists in row ? 0 (0 not valid, 1 ok)
+
+-----The grid:-----
+1234
+2143
+4312
+3000
+
+WE GO TO THE STEP -> 79
+
+------------------------------------
+
+STEP:	79
+
+coordinates x: 1, y: 3
+tower i we are trying to put: 4
+Is the number already exists in col ? 1 (0 not valid, 1 ok)
+Is the number already exists in row ? 1 (0 not valid, 1 ok)
+
+-----The grid:-----
+1234
+2143
+4312
+3000
+
+we put the tower
+
+starting the function process recursively.
+Is the grid valid ?? 0 (0 not valid, 1 ok)
+
+------------------------------------
+
+STEP:	79
+
+coordinates x: 2, y: 3
+tower i we are trying to put: 1
+Is the number already exists in col ? 0 (0 not valid, 1 ok)
+Is the number already exists in row ? 1 (0 not valid, 1 ok)
+
+-----The grid:-----
+1234
+2143
+4312
+3400
+
+WE GO TO THE STEP -> 80
+
+------------------------------------
+
+STEP:	80
+
+coordinates x: 2, y: 3
+tower i we are trying to put: 2
+Is the number already exists in col ? 1 (0 not valid, 1 ok)
+Is the number already exists in row ? 1 (0 not valid, 1 ok)
+
+-----The grid:-----
+1234
+2143
+4312
+3400
+
+we put the tower
+
+starting the function process recursively.
+Is the grid valid ?? 0 (0 not valid, 1 ok)
+
+------------------------------------
+
+STEP:	80
+
+coordinates x: 3, y: 3
+tower i we are trying to put: 1
+Is the number already exists in col ? 1 (0 not valid, 1 ok)
+Is the number already exists in row ? 1 (0 not valid, 1 ok)
+
+-----The grid:-----
+1234
+2143
+4312
+3420
+
+we put the tower
+
+starting the function process recursively.
+Is the grid valid ?? 0 (0 not valid, 1 ok)
+
+We move to the next row because we just filled all the previous one.
+
+------------------------------------
+
+STEP:	80
+
+coordinates x: 0, y: 4
+tower i we are trying to put: 1
+Is the number already exists in col ? 0 (0 not valid, 1 ok)
+Is the number already exists in row ? 1 (0 not valid, 1 ok)
+
+-----The grid:-----
+1234
+2143
+4312
+3421
+
+WE GO TO THE STEP -> 81
+
+------------------------------------
+
+STEP:	81
+
+coordinates x: 0, y: 4
+tower i we are trying to put: 2
+Is the number already exists in col ? 0 (0 not valid, 1 ok)
+Is the number already exists in row ? 1 (0 not valid, 1 ok)
+
+-----The grid:-----
+1234
+2143
+4312
+3421
+
+WE GO TO THE STEP -> 82
+
+------------------------------------
+
+STEP:	82
+
+coordinates x: 0, y: 4
+tower i we are trying to put: 3
+Is the number already exists in col ? 0 (0 not valid, 1 ok)
+Is the number already exists in row ? 1 (0 not valid, 1 ok)
+
+-----The grid:-----
+1234
+2143
+4312
+3421
+
+WE GO TO THE STEP -> 83
+
+------------------------------------
+
+STEP:	83
+
+coordinates x: 0, y: 4
+tower i we are trying to put: 4
+Is the number already exists in col ? 0 (0 not valid, 1 ok)
+Is the number already exists in row ? 1 (0 not valid, 1 ok)
+
+-----The grid:-----
+1234
+2143
+4312
+3421
+
+WE GO TO THE STEP -> 84
+Lets backtrack -------->WE GO TO THE STEP -> 85
+
+------------------------------------
+
+STEP:	85
+
+coordinates x: 3, y: 3
+tower i we are trying to put: 2
+Is the number already exists in col ? 0 (0 not valid, 1 ok)
+Is the number already exists in row ? 0 (0 not valid, 1 ok)
+
+-----The grid:-----
+1234
+2143
+4312
+3421
+
+WE GO TO THE STEP -> 86
+
+------------------------------------
+
+STEP:	86
+
+coordinates x: 3, y: 3
+tower i we are trying to put: 3
+Is the number already exists in col ? 0 (0 not valid, 1 ok)
+Is the number already exists in row ? 0 (0 not valid, 1 ok)
+
+-----The grid:-----
+1234
+2143
+4312
+3421
+
+WE GO TO THE STEP -> 87
+
+------------------------------------
+
+STEP:	87
+
+coordinates x: 3, y: 3
+tower i we are trying to put: 4
+Is the number already exists in col ? 0 (0 not valid, 1 ok)
+Is the number already exists in row ? 0 (0 not valid, 1 ok)
+
+-----The grid:-----
+1234
+2143
+4312
+3421
+
+WE GO TO THE STEP -> 88
+Lets backtrack -------->WE GO TO THE STEP -> 89
+
+------------------------------------
+
+STEP:	89
+
+coordinates x: 2, y: 3
+tower i we are trying to put: 3
+Is the number already exists in col ? 0 (0 not valid, 1 ok)
+Is the number already exists in row ? 0 (0 not valid, 1 ok)
+
+-----The grid:-----
+1234
+2143
+4312
+3420
+
+WE GO TO THE STEP -> 90
+
+------------------------------------
+
+STEP:	90
+
+coordinates x: 2, y: 3
+tower i we are trying to put: 4
+Is the number already exists in col ? 0 (0 not valid, 1 ok)
+Is the number already exists in row ? 0 (0 not valid, 1 ok)
+
+-----The grid:-----
+1234
+2143
+4312
+3420
+
+WE GO TO THE STEP -> 91
+Lets backtrack -------->WE GO TO THE STEP -> 92
+Lets backtrack -------->WE GO TO THE STEP -> 93
+
+------------------------------------
+
+STEP:	93
+
+coordinates x: 0, y: 3
+tower i we are trying to put: 4
+Is the number already exists in col ? 0 (0 not valid, 1 ok)
+Is the number already exists in row ? 1 (0 not valid, 1 ok)
+
+-----The grid:-----
+1234
+2143
+4312
+3000
+
+WE GO TO THE STEP -> 94
+Lets backtrack -------->WE GO TO THE STEP -> 95
+
+------------------------------------
+
+STEP:	95
+
+coordinates x: 3, y: 2
+tower i we are trying to put: 3
+Is the number already exists in col ? 0 (0 not valid, 1 ok)
+Is the number already exists in row ? 0 (0 not valid, 1 ok)
+
+-----The grid:-----
+1234
+2143
+4312
+0000
+
+WE GO TO THE STEP -> 96
+
+------------------------------------
+
+STEP:	96
+
+coordinates x: 3, y: 2
+tower i we are trying to put: 4
+Is the number already exists in col ? 0 (0 not valid, 1 ok)
+Is the number already exists in row ? 0 (0 not valid, 1 ok)
+
+-----The grid:-----
+1234
+2143
+4312
+0000
+
+WE GO TO THE STEP -> 97
+Lets backtrack -------->WE GO TO THE STEP -> 98
+
+------------------------------------
+
+STEP:	98
+
+coordinates x: 2, y: 2
+tower i we are trying to put: 2
+Is the number already exists in col ? 1 (0 not valid, 1 ok)
+Is the number already exists in row ? 1 (0 not valid, 1 ok)
+
+-----The grid:-----
+1234
+2143
+4310
+0000
+
+we put the tower
+
+starting the function process recursively.
+Is the grid valid ?? 0 (0 not valid, 1 ok)
+
+------------------------------------
+
+STEP:	98
+
+coordinates x: 3, y: 2
+tower i we are trying to put: 1
+Is the number already exists in col ? 1 (0 not valid, 1 ok)
+Is the number already exists in row ? 1 (0 not valid, 1 ok)
+
+-----The grid:-----
+1234
+2143
+4320
+0000
+
+we put the tower
+
+starting the function process recursively.
+Is the grid valid ?? 0 (0 not valid, 1 ok)
+
+We move to the next row because we just filled all the previous one.
+
+------------------------------------
+
+STEP:	98
+
+coordinates x: 0, y: 3
+tower i we are trying to put: 1
+Is the number already exists in col ? 0 (0 not valid, 1 ok)
+Is the number already exists in row ? 1 (0 not valid, 1 ok)
+
+-----The grid:-----
+1234
+2143
+4321
+0000
+
+WE GO TO THE STEP -> 99
+
+------------------------------------
+
+STEP:	99
+
+coordinates x: 0, y: 3
+tower i we are trying to put: 2
+Is the number already exists in col ? 0 (0 not valid, 1 ok)
+Is the number already exists in row ? 1 (0 not valid, 1 ok)
+
+-----The grid:-----
+1234
+2143
+4321
+0000
+
+WE GO TO THE STEP -> 100
+
+------------------------------------
+
+STEP:	100
+
+coordinates x: 0, y: 3
+tower i we are trying to put: 3
+Is the number already exists in col ? 1 (0 not valid, 1 ok)
+Is the number already exists in row ? 1 (0 not valid, 1 ok)
+
+-----The grid:-----
+1234
+2143
+4321
+0000
+
+we put the tower
+
+starting the function process recursively.
+Is the grid valid ?? 0 (0 not valid, 1 ok)
+
+------------------------------------
+
+STEP:	100
+
+coordinates x: 1, y: 3
+tower i we are trying to put: 1
+Is the number already exists in col ? 0 (0 not valid, 1 ok)
+Is the number already exists in row ? 1 (0 not valid, 1 ok)
+
+-----The grid:-----
+1234
+2143
+4321
+3000
+
+WE GO TO THE STEP -> 101
+
+------------------------------------
+
+STEP:	101
+
+coordinates x: 1, y: 3
+tower i we are trying to put: 2
+Is the number already exists in col ? 0 (0 not valid, 1 ok)
+Is the number already exists in row ? 1 (0 not valid, 1 ok)
+
+-----The grid:-----
+1234
+2143
+4321
+3000
+
+WE GO TO THE STEP -> 102
+
+------------------------------------
+
+STEP:	102
+
+coordinates x: 1, y: 3
+tower i we are trying to put: 3
+Is the number already exists in col ? 0 (0 not valid, 1 ok)
+Is the number already exists in row ? 0 (0 not valid, 1 ok)
+
+-----The grid:-----
+1234
+2143
+4321
+3000
+
+WE GO TO THE STEP -> 103
+
+------------------------------------
+
+STEP:	103
+
+coordinates x: 1, y: 3
+tower i we are trying to put: 4
+Is the number already exists in col ? 1 (0 not valid, 1 ok)
+Is the number already exists in row ? 1 (0 not valid, 1 ok)
+
+-----The grid:-----
+1234
+2143
+4321
+3000
+
+we put the tower
+
+starting the function process recursively.
+Is the grid valid ?? 0 (0 not valid, 1 ok)
+
+------------------------------------
+
+STEP:	103
+
+coordinates x: 2, y: 3
+tower i we are trying to put: 1
+Is the number already exists in col ? 1 (0 not valid, 1 ok)
+Is the number already exists in row ? 1 (0 not valid, 1 ok)
+
+-----The grid:-----
+1234
+2143
+4321
+3400
+
+we put the tower
+
+starting the function process recursively.
+Is the grid valid ?? 0 (0 not valid, 1 ok)
+
+------------------------------------
+
+STEP:	103
+
+coordinates x: 3, y: 3
+tower i we are trying to put: 1
+Is the number already exists in col ? 0 (0 not valid, 1 ok)
+Is the number already exists in row ? 0 (0 not valid, 1 ok)
+
+-----The grid:-----
+1234
+2143
+4321
+3410
+
+WE GO TO THE STEP -> 104
+
+------------------------------------
+
+STEP:	104
+
+coordinates x: 3, y: 3
+tower i we are trying to put: 2
+Is the number already exists in col ? 1 (0 not valid, 1 ok)
+Is the number already exists in row ? 1 (0 not valid, 1 ok)
+
+-----The grid:-----
+1234
+2143
+4321
+3410
+
+we put the tower
+
+starting the function process recursively.
+Is the grid valid ?? 0 (0 not valid, 1 ok)
+
+We move to the next row because we just filled all the previous one.
+
+------------------------------------
+
+STEP:	104
+
+coordinates x: 0, y: 4
+tower i we are trying to put: 1
+Is the number already exists in col ? 0 (0 not valid, 1 ok)
+Is the number already exists in row ? 1 (0 not valid, 1 ok)
+
+-----The grid:-----
+1234
+2143
+4321
+3412
+
+WE GO TO THE STEP -> 105
+
+------------------------------------
+
+STEP:	105
+
+coordinates x: 0, y: 4
+tower i we are trying to put: 2
+Is the number already exists in col ? 0 (0 not valid, 1 ok)
+Is the number already exists in row ? 1 (0 not valid, 1 ok)
+
+-----The grid:-----
+1234
+2143
+4321
+3412
+
+WE GO TO THE STEP -> 106
+
+------------------------------------
+
+STEP:	106
+
+coordinates x: 0, y: 4
+tower i we are trying to put: 3
+Is the number already exists in col ? 0 (0 not valid, 1 ok)
+Is the number already exists in row ? 1 (0 not valid, 1 ok)
+
+-----The grid:-----
+1234
+2143
+4321
+3412
+
+WE GO TO THE STEP -> 107
+
+------------------------------------
+
+STEP:	107
+
+coordinates x: 0, y: 4
+tower i we are trying to put: 4
+Is the number already exists in col ? 0 (0 not valid, 1 ok)
+Is the number already exists in row ? 1 (0 not valid, 1 ok)
+
+-----The grid:-----
+1234
+2143
+4321
+3412
+
+WE GO TO THE STEP -> 108
+Lets backtrack -------->WE GO TO THE STEP -> 109
+
+------------------------------------
+
+STEP:	109
+
+coordinates x: 3, y: 3
+tower i we are trying to put: 3
+Is the number already exists in col ? 0 (0 not valid, 1 ok)
+Is the number already exists in row ? 0 (0 not valid, 1 ok)
+
+-----The grid:-----
+1234
+2143
+4321
+3412
+
+WE GO TO THE STEP -> 110
+
+------------------------------------
+
+STEP:	110
+
+coordinates x: 3, y: 3
+tower i we are trying to put: 4
+Is the number already exists in col ? 0 (0 not valid, 1 ok)
+Is the number already exists in row ? 0 (0 not valid, 1 ok)
+
+-----The grid:-----
+1234
+2143
+4321
+3412
+
+WE GO TO THE STEP -> 111
+Lets backtrack -------->WE GO TO THE STEP -> 112
+
+------------------------------------
+
+STEP:	112
+
+coordinates x: 2, y: 3
+tower i we are trying to put: 2
+Is the number already exists in col ? 0 (0 not valid, 1 ok)
+Is the number already exists in row ? 1 (0 not valid, 1 ok)
+
+-----The grid:-----
+1234
+2143
+4321
+3410
+
+WE GO TO THE STEP -> 113
+
+------------------------------------
+
+STEP:	113
+
+coordinates x: 2, y: 3
+tower i we are trying to put: 3
+Is the number already exists in col ? 0 (0 not valid, 1 ok)
+Is the number already exists in row ? 0 (0 not valid, 1 ok)
+
+-----The grid:-----
+1234
+2143
+4321
+3410
+
+WE GO TO THE STEP -> 114
+
+------------------------------------
+
+STEP:	114
+
+coordinates x: 2, y: 3
+tower i we are trying to put: 4
+Is the number already exists in col ? 0 (0 not valid, 1 ok)
+Is the number already exists in row ? 0 (0 not valid, 1 ok)
+
+-----The grid:-----
+1234
+2143
+4321
+3410
+
+WE GO TO THE STEP -> 115
+Lets backtrack -------->WE GO TO THE STEP -> 116
+Lets backtrack -------->WE GO TO THE STEP -> 117
+
+------------------------------------
+
+STEP:	117
+
+coordinates x: 0, y: 3
+tower i we are trying to put: 4
+Is the number already exists in col ? 0 (0 not valid, 1 ok)
+Is the number already exists in row ? 1 (0 not valid, 1 ok)
+
+-----The grid:-----
+1234
+2143
+4321
+3000
+
+WE GO TO THE STEP -> 118
+Lets backtrack -------->WE GO TO THE STEP -> 119
+
+------------------------------------
+
+STEP:	119
+
+coordinates x: 3, y: 2
+tower i we are trying to put: 2
+Is the number already exists in col ? 1 (0 not valid, 1 ok)
+Is the number already exists in row ? 0 (0 not valid, 1 ok)
+
+-----The grid:-----
+1234
+2143
+4321
+0000
+
+WE GO TO THE STEP -> 120
+
+------------------------------------
+
+STEP:	120
+
+coordinates x: 3, y: 2
+tower i we are trying to put: 3
+Is the number already exists in col ? 0 (0 not valid, 1 ok)
+Is the number already exists in row ? 0 (0 not valid, 1 ok)
+
+-----The grid:-----
+1234
+2143
+4321
+0000
+
+WE GO TO THE STEP -> 121
+
+------------------------------------
+
+STEP:	121
+
+coordinates x: 3, y: 2
+tower i we are trying to put: 4
+Is the number already exists in col ? 0 (0 not valid, 1 ok)
+Is the number already exists in row ? 0 (0 not valid, 1 ok)
+
+-----The grid:-----
+1234
+2143
+4321
+0000
+
+WE GO TO THE STEP -> 122
+Lets backtrack -------->WE GO TO THE STEP -> 123
+
+------------------------------------
+
+STEP:	123
+
+coordinates x: 2, y: 2
+tower i we are trying to put: 3
+Is the number already exists in col ? 0 (0 not valid, 1 ok)
+Is the number already exists in row ? 0 (0 not valid, 1 ok)
+
+-----The grid:-----
+1234
+2143
+4320
+0000
+
+WE GO TO THE STEP -> 124
+
+------------------------------------
+
+STEP:	124
+
+coordinates x: 2, y: 2
+tower i we are trying to put: 4
+Is the number already exists in col ? 0 (0 not valid, 1 ok)
+Is the number already exists in row ? 0 (0 not valid, 1 ok)
+
+-----The grid:-----
+1234
+2143
+4320
+0000
+
+WE GO TO THE STEP -> 125
+Lets backtrack -------->WE GO TO THE STEP -> 126
+
+------------------------------------
+
+STEP:	126
+
+coordinates x: 1, y: 2
+tower i we are trying to put: 4
+Is the number already exists in col ? 1 (0 not valid, 1 ok)
+Is the number already exists in row ? 0 (0 not valid, 1 ok)
+
+-----The grid:-----
+1234
+2143
+4300
+0000
+
+WE GO TO THE STEP -> 127
+Lets backtrack -------->WE GO TO THE STEP -> 128
+Lets backtrack -------->WE GO TO THE STEP -> 129
+
+------------------------------------
+
+STEP:	129
+
+coordinates x: 3, y: 1
+tower i we are trying to put: 4
+Is the number already exists in col ? 0 (0 not valid, 1 ok)
+Is the number already exists in row ? 0 (0 not valid, 1 ok)
+
+-----The grid:-----
+1234
+2143
+0000
+0000
+
+WE GO TO THE STEP -> 130
+Lets backtrack -------->WE GO TO THE STEP -> 131
+Lets backtrack -------->WE GO TO THE STEP -> 132
+
+------------------------------------
+
+STEP:	132
+
+coordinates x: 1, y: 1
+tower i we are trying to put: 2
+Is the number already exists in col ? 0 (0 not valid, 1 ok)
+Is the number already exists in row ? 0 (0 not valid, 1 ok)
+
+-----The grid:-----
+1234
+2100
+0000
+0000
+
+WE GO TO THE STEP -> 133
+
+------------------------------------
+
+STEP:	133
+
+coordinates x: 1, y: 1
+tower i we are trying to put: 3
+Is the number already exists in col ? 1 (0 not valid, 1 ok)
+Is the number already exists in row ? 1 (0 not valid, 1 ok)
+
+-----The grid:-----
+1234
+2100
+0000
+0000
+
+we put the tower
+
+starting the function process recursively.
+Is the grid valid ?? 0 (0 not valid, 1 ok)
+
+------------------------------------
+
+STEP:	133
+
+coordinates x: 2, y: 1
+tower i we are trying to put: 1
+Is the number already exists in col ? 1 (0 not valid, 1 ok)
+Is the number already exists in row ? 1 (0 not valid, 1 ok)
+
+-----The grid:-----
+1234
+2300
+0000
+0000
+
+we put the tower
+
+starting the function process recursively.
+Is the grid valid ?? 0 (0 not valid, 1 ok)
+
+------------------------------------
+
+STEP:	133
+
+coordinates x: 3, y: 1
+tower i we are trying to put: 1
+Is the number already exists in col ? 1 (0 not valid, 1 ok)
+Is the number already exists in row ? 0 (0 not valid, 1 ok)
+
+-----The grid:-----
+1234
+2310
+0000
+0000
+
+WE GO TO THE STEP -> 134
+
+------------------------------------
+
+STEP:	134
+
+coordinates x: 3, y: 1
+tower i we are trying to put: 2
+Is the number already exists in col ? 1 (0 not valid, 1 ok)
+Is the number already exists in row ? 0 (0 not valid, 1 ok)
+
+-----The grid:-----
+1234
+2310
+0000
+0000
+
+WE GO TO THE STEP -> 135
+
+------------------------------------
+
+STEP:	135
+
+coordinates x: 3, y: 1
+tower i we are trying to put: 3
+Is the number already exists in col ? 1 (0 not valid, 1 ok)
+Is the number already exists in row ? 0 (0 not valid, 1 ok)
+
+-----The grid:-----
+1234
+2310
+0000
+0000
+
+WE GO TO THE STEP -> 136
+
+------------------------------------
+
+STEP:	136
+
+coordinates x: 3, y: 1
+tower i we are trying to put: 4
+Is the number already exists in col ? 0 (0 not valid, 1 ok)
+Is the number already exists in row ? 1 (0 not valid, 1 ok)
+
+-----The grid:-----
+1234
+2310
+0000
+0000
+
+WE GO TO THE STEP -> 137
+Lets backtrack -------->WE GO TO THE STEP -> 138
+
+------------------------------------
+
+STEP:	138
+
+coordinates x: 2, y: 1
+tower i we are trying to put: 2
+Is the number already exists in col ? 1 (0 not valid, 1 ok)
+Is the number already exists in row ? 0 (0 not valid, 1 ok)
+
+-----The grid:-----
+1234
+2310
+0000
+0000
+
+WE GO TO THE STEP -> 139
+
+------------------------------------
+
+STEP:	139
+
+coordinates x: 2, y: 1
+tower i we are trying to put: 3
+Is the number already exists in col ? 0 (0 not valid, 1 ok)
+Is the number already exists in row ? 0 (0 not valid, 1 ok)
+
+-----The grid:-----
+1234
+2310
+0000
+0000
+
+WE GO TO THE STEP -> 140
+
+------------------------------------
+
+STEP:	140
+
+coordinates x: 2, y: 1
+tower i we are trying to put: 4
+Is the number already exists in col ? 1 (0 not valid, 1 ok)
+Is the number already exists in row ? 1 (0 not valid, 1 ok)
+
+-----The grid:-----
+1234
+2310
+0000
+0000
+
+we put the tower
+
+starting the function process recursively.
+Is the grid valid ?? 0 (0 not valid, 1 ok)
+
+------------------------------------
+
+STEP:	140
+
+coordinates x: 3, y: 1
+tower i we are trying to put: 1
+Is the number already exists in col ? 1 (0 not valid, 1 ok)
+Is the number already exists in row ? 1 (0 not valid, 1 ok)
+
+-----The grid:-----
+1234
+2340
+0000
+0000
+
+we put the tower
+
+starting the function process recursively.
+Is the grid valid ?? 0 (0 not valid, 1 ok)
+
+We move to the next row because we just filled all the previous one.
+
+------------------------------------
+
+STEP:	140
+
+coordinates x: 0, y: 2
+tower i we are trying to put: 1
+Is the number already exists in col ? 0 (0 not valid, 1 ok)
+Is the number already exists in row ? 1 (0 not valid, 1 ok)
+
+-----The grid:-----
+1234
+2341
+0000
+0000
+
+WE GO TO THE STEP -> 141
+
+------------------------------------
+
+STEP:	141
+
+coordinates x: 0, y: 2
+tower i we are trying to put: 2
+Is the number already exists in col ? 0 (0 not valid, 1 ok)
+Is the number already exists in row ? 1 (0 not valid, 1 ok)
+
+-----The grid:-----
+1234
+2341
+0000
+0000
+
+WE GO TO THE STEP -> 142
+
+------------------------------------
+
+STEP:	142
+
+coordinates x: 0, y: 2
+tower i we are trying to put: 3
+Is the number already exists in col ? 1 (0 not valid, 1 ok)
+Is the number already exists in row ? 1 (0 not valid, 1 ok)
+
+-----The grid:-----
+1234
+2341
+0000
+0000
+
+we put the tower
+
+starting the function process recursively.
+Is the grid valid ?? 0 (0 not valid, 1 ok)
+
+------------------------------------
+
+STEP:	142
+
+coordinates x: 1, y: 2
+tower i we are trying to put: 1
+Is the number already exists in col ? 1 (0 not valid, 1 ok)
+Is the number already exists in row ? 1 (0 not valid, 1 ok)
+
+-----The grid:-----
+1234
+2341
+3000
+0000
+
+we put the tower
+
+starting the function process recursively.
+Is the grid valid ?? 0 (0 not valid, 1 ok)
+
+------------------------------------
+
+STEP:	142
+
+coordinates x: 2, y: 2
+tower i we are trying to put: 1
+Is the number already exists in col ? 1 (0 not valid, 1 ok)
+Is the number already exists in row ? 0 (0 not valid, 1 ok)
+
+-----The grid:-----
+1234
+2341
+3100
+0000
+
+WE GO TO THE STEP -> 143
+
+------------------------------------
+
+STEP:	143
+
+coordinates x: 2, y: 2
+tower i we are trying to put: 2
+Is the number already exists in col ? 1 (0 not valid, 1 ok)
+Is the number already exists in row ? 1 (0 not valid, 1 ok)
+
+-----The grid:-----
+1234
+2341
+3100
+0000
+
+we put the tower
+
+starting the function process recursively.
+Is the grid valid ?? 0 (0 not valid, 1 ok)
+
+------------------------------------
+
+STEP:	143
+
+coordinates x: 3, y: 2
+tower i we are trying to put: 1
+Is the number already exists in col ? 0 (0 not valid, 1 ok)
+Is the number already exists in row ? 0 (0 not valid, 1 ok)
+
+-----The grid:-----
+1234
+2341
+3120
+0000
+
+WE GO TO THE STEP -> 144
+
+------------------------------------
+
+STEP:	144
+
+coordinates x: 3, y: 2
+tower i we are trying to put: 2
+Is the number already exists in col ? 1 (0 not valid, 1 ok)
+Is the number already exists in row ? 0 (0 not valid, 1 ok)
+
+-----The grid:-----
+1234
+2341
+3120
+0000
+
+WE GO TO THE STEP -> 145
+
+------------------------------------
+
+STEP:	145
+
+coordinates x: 3, y: 2
+tower i we are trying to put: 3
+Is the number already exists in col ? 1 (0 not valid, 1 ok)
+Is the number already exists in row ? 0 (0 not valid, 1 ok)
+
+-----The grid:-----
+1234
+2341
+3120
+0000
+
+WE GO TO THE STEP -> 146
+
+------------------------------------
+
+STEP:	146
+
+coordinates x: 3, y: 2
+tower i we are trying to put: 4
+Is the number already exists in col ? 0 (0 not valid, 1 ok)
+Is the number already exists in row ? 1 (0 not valid, 1 ok)
+
+-----The grid:-----
+1234
+2341
+3120
+0000
+
+WE GO TO THE STEP -> 147
+Lets backtrack -------->WE GO TO THE STEP -> 148
+
+------------------------------------
+
+STEP:	148
+
+coordinates x: 2, y: 2
+tower i we are trying to put: 3
+Is the number already exists in col ? 0 (0 not valid, 1 ok)
+Is the number already exists in row ? 0 (0 not valid, 1 ok)
+
+-----The grid:-----
+1234
+2341
+3120
+0000
+
+WE GO TO THE STEP -> 149
+
+------------------------------------
+
+STEP:	149
+
+coordinates x: 2, y: 2
+tower i we are trying to put: 4
+Is the number already exists in col ? 0 (0 not valid, 1 ok)
+Is the number already exists in row ? 1 (0 not valid, 1 ok)
+
+-----The grid:-----
+1234
+2341
+3120
+0000
+
+WE GO TO THE STEP -> 150
+Lets backtrack -------->WE GO TO THE STEP -> 151
+
+------------------------------------
+
+STEP:	151
+
+coordinates x: 1, y: 2
+tower i we are trying to put: 2
+Is the number already exists in col ? 0 (0 not valid, 1 ok)
+Is the number already exists in row ? 1 (0 not valid, 1 ok)
+
+-----The grid:-----
+1234
+2341
+3100
+0000
+
+WE GO TO THE STEP -> 152
+
+------------------------------------
+
+STEP:	152
+
+coordinates x: 1, y: 2
+tower i we are trying to put: 3
+Is the number already exists in col ? 0 (0 not valid, 1 ok)
+Is the number already exists in row ? 0 (0 not valid, 1 ok)
+
+-----The grid:-----
+1234
+2341
+3100
+0000
+
+WE GO TO THE STEP -> 153
+
+------------------------------------
+
+STEP:	153
+
+coordinates x: 1, y: 2
+tower i we are trying to put: 4
+Is the number already exists in col ? 1 (0 not valid, 1 ok)
+Is the number already exists in row ? 1 (0 not valid, 1 ok)
+
+-----The grid:-----
+1234
+2341
+3100
+0000
+
+we put the tower
+
+starting the function process recursively.
+Is the grid valid ?? 0 (0 not valid, 1 ok)
+
+------------------------------------
+
+STEP:	153
+
+coordinates x: 2, y: 2
+tower i we are trying to put: 1
+Is the number already exists in col ? 1 (0 not valid, 1 ok)
+Is the number already exists in row ? 1 (0 not valid, 1 ok)
+
+-----The grid:-----
+1234
+2341
+3400
+0000
+
+we put the tower
+
+starting the function process recursively.
+Is the grid valid ?? 0 (0 not valid, 1 ok)
+
+------------------------------------
+
+STEP:	153
+
+coordinates x: 3, y: 2
+tower i we are trying to put: 1
+Is the number already exists in col ? 0 (0 not valid, 1 ok)
+Is the number already exists in row ? 0 (0 not valid, 1 ok)
+
+-----The grid:-----
+1234
+2341
+3410
+0000
+
+WE GO TO THE STEP -> 154
+
+------------------------------------
+
+STEP:	154
+
+coordinates x: 3, y: 2
+tower i we are trying to put: 2
+Is the number already exists in col ? 1 (0 not valid, 1 ok)
+Is the number already exists in row ? 1 (0 not valid, 1 ok)
+
+-----The grid:-----
+1234
+2341
+3410
+0000
+
+we put the tower
+
+starting the function process recursively.
+Is the grid valid ?? 0 (0 not valid, 1 ok)
+
+We move to the next row because we just filled all the previous one.
+
+------------------------------------
+
+STEP:	154
+
+coordinates x: 0, y: 3
+tower i we are trying to put: 1
+Is the number already exists in col ? 0 (0 not valid, 1 ok)
+Is the number already exists in row ? 1 (0 not valid, 1 ok)
+
+-----The grid:-----
+1234
+2341
+3412
+0000
+
+WE GO TO THE STEP -> 155
+
+------------------------------------
+
+STEP:	155
+
+coordinates x: 0, y: 3
+tower i we are trying to put: 2
+Is the number already exists in col ? 0 (0 not valid, 1 ok)
+Is the number already exists in row ? 1 (0 not valid, 1 ok)
+
+-----The grid:-----
+1234
+2341
+3412
+0000
+
+WE GO TO THE STEP -> 156
+
+------------------------------------
+
+STEP:	156
+
+coordinates x: 0, y: 3
+tower i we are trying to put: 3
+Is the number already exists in col ? 0 (0 not valid, 1 ok)
+Is the number already exists in row ? 1 (0 not valid, 1 ok)
+
+-----The grid:-----
+1234
+2341
+3412
+0000
+
+WE GO TO THE STEP -> 157
+
+------------------------------------
+
+STEP:	157
+
+coordinates x: 0, y: 3
+tower i we are trying to put: 4
+Is the number already exists in col ? 1 (0 not valid, 1 ok)
+Is the number already exists in row ? 1 (0 not valid, 1 ok)
+
+-----The grid:-----
+1234
+2341
+3412
+0000
+
+we put the tower
+
+starting the function process recursively.
+Is the grid valid ?? 0 (0 not valid, 1 ok)
+
+------------------------------------
+
+STEP:	157
+
+coordinates x: 1, y: 3
+tower i we are trying to put: 1
+Is the number already exists in col ? 1 (0 not valid, 1 ok)
+Is the number already exists in row ? 1 (0 not valid, 1 ok)
+
+-----The grid:-----
+1234
+2341
+3412
+4000
+
+we put the tower
+
+starting the function process recursively.
+Is the grid valid ?? 1 (0 not valid, 1 ok)
+
+------------------------------------
+
+STEP:	157
+
+coordinates x: 2, y: 3
+tower i we are trying to put: 1
+Is the number already exists in col ? 0 (0 not valid, 1 ok)
+Is the number already exists in row ? 0 (0 not valid, 1 ok)
+
+-----The grid:-----
+1234
+2341
+3412
+4100
+
+WE GO TO THE STEP -> 158
+
+------------------------------------
+
+STEP:	158
+
+coordinates x: 2, y: 3
+tower i we are trying to put: 2
+Is the number already exists in col ? 1 (0 not valid, 1 ok)
+Is the number already exists in row ? 1 (0 not valid, 1 ok)
+
+-----The grid:-----
+1234
+2341
+3412
+4100
+
+we put the tower
+
+starting the function process recursively.
+Is the grid valid ?? 1 (0 not valid, 1 ok)
+
+------------------------------------
+
+STEP:	158
+
+coordinates x: 3, y: 3
+tower i we are trying to put: 1
+Is the number already exists in col ? 0 (0 not valid, 1 ok)
+Is the number already exists in row ? 0 (0 not valid, 1 ok)
+
+-----The grid:-----
+1234
+2341
+3412
+4120
+
+WE GO TO THE STEP -> 159
+
+------------------------------------
+
+STEP:	159
+
+coordinates x: 3, y: 3
+tower i we are trying to put: 2
+Is the number already exists in col ? 0 (0 not valid, 1 ok)
+Is the number already exists in row ? 0 (0 not valid, 1 ok)
+
+-----The grid:-----
+1234
+2341
+3412
+4120
+
+WE GO TO THE STEP -> 160
+
+------------------------------------
+
+STEP:	160
+
+coordinates x: 3, y: 3
+tower i we are trying to put: 3
+Is the number already exists in col ? 1 (0 not valid, 1 ok)
+Is the number already exists in row ? 1 (0 not valid, 1 ok)
+
+-----The grid:-----
+1234
+2341
+3412
+4120
+
+we put the tower
+
+starting the function process recursively.
+Is the grid valid ?? 1 (0 not valid, 1 ok)
+
+OUR FINAL SOLUTION IS:
+1234
+2341
+3412
+4123
